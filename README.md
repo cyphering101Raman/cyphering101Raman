@@ -1,55 +1,30 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Raman Gupta</h1>
+<h3 align="center">Builder • Full Stack Developer • Problem Solver</h3>
 
-###
+<p align="center">
+  <a href="mailto:guptaraman600@gmail.com"><img src="https://img.shields.io/badge/Email-guptaraman600@gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/raman--gupta" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-raman--gupta-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/cyphering101Raman" target="_blank"><img src="https://img.shields.io/badge/GitHub-cyphering101Raman-black?style=flat-square&logo=github"></a>
+  <a href="https://quickpollio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-QuickPoll-blueviolet?style=flat-square&logo=netlify"></a>
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+---
 
-###
+### 🧑‍💻 About Me
 
-<h1 align="center">hey there 👋</h1>
+- 🔭 Currently building **full-stack projects** with a focus on **MERN stack**
+- 🛠️ Exploring **MongoDB Aggregation**, advanced backend patterns, and real-time apps
+- 🧠 Solved **300+ DSA problems** across LeetCode, CodeChef, and HackerRank
+- 💬 Ask me about **React, Node, Express, MongoDB, or building fast UIs**
+- ⚡ Fun fact: I like to ship fast and break nothing 😎
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🛠️ Tech Stack
 
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+```bash
+💻 Languages:   C++ • JavaScript • Python • C
+🌐 Frontend:    HTML • CSS • Tailwind CSS • React.js
+🛠️ Backend:     Node.js • Express.js • WebSockets
+🗄️ Databases:   MongoDB • MySQL
+🔧 Tools:       Git • GitHub • VS Code • Netlify
