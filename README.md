@@ -41,7 +41,7 @@
 
 ### 🧰 Tech Stack
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap:40px;">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
