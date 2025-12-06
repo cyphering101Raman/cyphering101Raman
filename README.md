@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raman Gupta</h1>
-<h3 align="center">Builder • Full Stack Developer • Problem Solver</h3>
+<h3 align="center">Full Stack Developer • GenAI Backend Engineer • Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyphering101raman&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -10,10 +10,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year Computer Science undergrad
-- 🔭 I’m currently working on **MERN stack side projects**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, and DSA**
-- 👨‍💻 All of my projects are available at [github.com/cyphering101Raman](https://github.com/cyphering101Raman)
-- 📫 How to reach me: **guptaraman600@gmail.com**
+- 🔭 Currently building **GenAI-powered applications & backend systems**
+- 💡 Interested in **LLM engineering, RAG pipelines, and full-stack product building**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, GenAI backend, and DSA**
+- 👨‍💻 Projects: [github.com/cyphering101Raman](https://github.com/cyphering101Raman)
+- 📫 Reach me at **guptaraman600@gmail.com**
 
 ---
 
@@ -39,49 +40,51 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🚀 Tech Stack
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap:40px;">
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="50" height="50"/>
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
-</div>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+
+  <!-- GenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-000000?style=for-the-badge&logo=google-cloud&logoColor=white" />
+
+  <!-- Core Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyphering101raman&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyphering101raman&layout=compact&theme=radical" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=cyphering101raman&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=cyphering101raman&layout=compact&theme=radical&hide_border=true" width="40%" />
 </p>
 
----
 
-### 🚀 My Core Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%2320232a" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyphering101raman&theme=radical&hide_border=true" width="60%" />
 </p>
 
 ---
+
 
